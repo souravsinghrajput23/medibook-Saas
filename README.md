@@ -4,6 +4,8 @@
 
 A full-featured, production-ready web app for booking doctor appointments. Patients can browse doctors, book appointments, and manage their history. Admins can manage doctors, availability slots, and all appointments with an analytics dashboard.
 
+🌐 **Live Demo:** https://medibook-saas.vercel.app
+
 ---
 
 ## Tech Stack
